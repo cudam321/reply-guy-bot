@@ -1,0 +1,14 @@
+# NOTE: cookies.json and persona.txt are intentionally NOT ignored here.
+# When you build your own private image, `COPY . .` bakes your own cookies.json
+# (and optional persona.txt) into the image so the container can post. They are
+# still git-ignored, so they never end up in the public repo.
+.env
+*.db
+reply_guy.db
+__pycache__/
+*.pyc
+.DS_Store
+.git
+.gitignore
+poster_error.png
+poster_crash.png

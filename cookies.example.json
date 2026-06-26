@@ -1,0 +1,15 @@
+[
+  {
+    "_note": "EXAMPLE ONLY. Copy this file to cookies.json and replace it with cookies exported from a browser logged into YOUR OWN account. The real cookies.json is gitignored and must NEVER be committed. Export with any 'Cookie Editor' / 'EditThisCookie' style extension (Export as JSON) while on x.com. Delete this _note object in your real file."
+  },
+  {
+    "name": "example_session_cookie_name",
+    "value": "REPLACE_WITH_YOUR_OWN_VALUE",
+    "domain": ".x.com",
+    "path": "/",
+    "expires": 1893456000,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

@@ -1,0 +1,19 @@
+# Secrets — NEVER commit these
+.env
+cookies.json
+persona.txt
+
+# Local state / databases
+*.db
+reply_guy.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Debug artifacts
+poster_error.png
+poster_crash.png
+
+# OS
+.DS_Store

@@ -1,0 +1,4 @@
+playwright
+openai
+requests
+python-dotenv
